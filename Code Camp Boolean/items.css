@@ -1,0 +1,73 @@
+ body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.quadrato{
+  background-color: rgb(0,0,0,50%);
+  height: 900px;
+  width: 1300px;
+  border-radius: 20px;
+  margin: auto;
+}
+.stemma{
+  height: 125px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+.spaziatore{
+  height: 100px;
+}
+.sottotitolo{
+  font-size: 30px;
+  color: green;
+  font-weight: bold;
+  border: 0px;
+  margin: 1px;
+}
+.contenitorepulsanti{
+  height: 50px;
+  width: 100%;
+  background-color: green;
+  padding: 12px;
+  box-sizing: border-box;
+}
+.contenitoremain{
+  background-color: rgb(0,0,0,0%);
+  height: 600px;
+  width: 1100px;
+  margin: auto;
+}
+.nomemonopattino{
+  color: white;
+  margin: 1px;
+}
+.testo{
+  margin: 5px;
+  color: white;
+}
+.carico{
+  height: 30px;
+  width: 70%;
+  background-color: green;
+  border-radius: 5px;
+  margin:1px;
+}
+.scarico{
+  height: 30px;
+  width: 10%;
+  background-color: red;
+  border-radius: 5px;
+  margin:1px;
+}
+.mezzocarico{
+  height: 30px;
+  width: 40%;
+  background-color: orange;
+  border-radius: 5px;
+  margin:1px;
+}
+.monopattino{
+  margin-top: 30px;
+}
